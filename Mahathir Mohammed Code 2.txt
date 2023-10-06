@@ -1223,234 +1223,247 @@ campaignTrail_temp.states_json = [
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1194,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Tanjong Karang",
+            "abbr": "P095",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 40498,
+            "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 21
         }
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1195,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Kuala Selangor",
+            "abbr": "P096",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 59721,
+            "poll_closing_time": 150,
             "winner_take_all_flg": 1,
             "election": 21
         }
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1196,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Selayang",
+            "abbr": "P097",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 98002,
+            "poll_closing_time": 100,
             "winner_take_all_flg": 1,
             "election": 21
         }
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1197,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Gombak",
+            "abbr": "P098",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 119042,
+            "poll_closing_time": 80,
             "winner_take_all_flg": 1,
             "election": 21
         }
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1198,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Ampang",
+            "abbr": "P099",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 76550,
+            "poll_closing_time": 80,
             "winner_take_all_flg": 1,
             "election": 21
         }
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1199,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Pandan",
+            "abbr": "P100",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 85774,
+            "poll_closing_time": 60,
             "winner_take_all_flg": 1,
             "election": 21
         }
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1200,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Hulu Langat",
+            "abbr": "P101",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 88247,
+            "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 21
         }
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1201,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Bangi",
+            "abbr": "P102",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 156327,
+            "poll_closing_time": 60,
             "winner_take_all_flg": 1,
             "election": 21
         }
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1202,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Puchong",
+            "abbr": "P103",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 83478,
+            "poll_closing_time": 60,
             "winner_take_all_flg": 1,
             "election": 21
         }
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1203,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Subang",
+            "abbr": "P104",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 125705,
+            "poll_closing_time": 100,
             "winner_take_all_flg": 1,
             "election": 21
         }
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1204,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Petaling Jaya",
+            "abbr": "P105",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 115279,
+            "poll_closing_time": 60,
             "winner_take_all_flg": 1,
             "election": 21
         }
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1205,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Damansara",
+            "abbr": "P106",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 136280,
+            "poll_closing_time": 60,
             "winner_take_all_flg": 1,
             "election": 21
         }
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1206,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Sungai Buloh",
+            "abbr": "P107",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 77951,
+            "poll_closing_time": 180,
             "winner_take_all_flg": 1,
             "election": 21
         }
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1207,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Shah Alam",
+            "abbr": "P108",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 93243,
+            "poll_closing_time": 150,
             "winner_take_all_flg": 1,
             "election": 21
         }
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1208,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Kapar",
+            "abbr": "P109",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 106093,
+            "poll_closing_time": 200,
             "winner_take_all_flg": 1,
             "election": 21
         }
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1209,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Klang",
+            "abbr": "P110",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 127074,
+            "poll_closing_time": 100,
             "winner_take_all_flg": 1,
             "election": 21
         }
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1210,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Kota Raja",
+            "abbr": "P111",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 128126,
+            "poll_closing_time": 180,
             "winner_take_all_flg": 1,
             "election": 21
         }
     },
     {
         "model": "campaign_trail.state",
-        "pk": ,
+        "pk": 1211,
         "fields": {
-            "name": "",
-            "abbr": "",
+            "name": "Kuala Langat",
+            "abbr": "P112",
             "electoral_votes": 1,
-            "popular_votes": ,
-            "poll_closing_time": ,
+            "popular_votes": 88097,
+            "poll_closing_time": 120,
+            "winner_take_all_flg": 1,
+            "election": 21
+        }
+    },
+    {
+        "model": "campaign_trail.state",
+        "pk": 1212,
+        "fields": {
+            "name": "Sepang",
+            "abbr": "P113",
+            "electoral_votes": 1,
+            "popular_votes": 90657,
+            "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 21
         }
