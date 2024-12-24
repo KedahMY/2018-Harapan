@@ -219,4 +219,30 @@ document.body.background = "https://kedahmy.github.io/2018-Harapan/images/backgr
 
 document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#ffa3a3!important;}</style>";
 
+function updateCandidateForm() {
+  formobserver.disconnect();
+  const heading = document.querySelector("#candidate_form form h3");
+
+  if (heading) {
+    heading.textContent = "Please select your candidate and coalition:";
+  }
+  formobserver.observe(document.documentElement, { childList: true, subtree: true });
+}
+
+var formobserver = new MutationObserver(updateCandidateForm);
+formobserver.observe(document.documentElement, { childList: true, subtree: true });
+
+function updateRunningMateForm() {
+  runformobserver.disconnect();
+  const heading = document.querySelector("#running_mate_form form h3");
+
+  if (heading) {
+    heading.textContent = "Please select your party coalition:";
+  }
+  runformobserver.observe(document.documentElement, { childList: true, subtree: true });
+}
+
+var runformobserver = new MutationObserver(updateRunningMateForm);
+runformobserver.observe(document.documentElement, { childList: true, subtree: true });
+
 //#endcode
